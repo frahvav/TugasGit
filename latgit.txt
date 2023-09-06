@@ -1,0 +1,7 @@
+ini adalah contoh penerapan git 
+dibawah ini merupakan beberapa contoh kode git yang dapat digunakan  
+git clone 
+git status 
+git add 
+git commit -m “ “ 
+git push
